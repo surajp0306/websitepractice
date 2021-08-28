@@ -1,0 +1,12 @@
+img{
+	width: 400px;
+	height: 300px;
+	margin: 10px;
+}
+.SAD{
+	color: beige;
+	display: inline-flex;
+	flex-wrap: wrap;
+	flex-shrink: 4;
+	align-self: center;
+}
